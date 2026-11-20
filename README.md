@@ -1,5 +1,7 @@
 # 🏎️ Super Pixel Kart 3D
 
+> **▶ [Play Online in Your Browser (GitHub Pages)](https://onlyaninja.github.io/3d-racing-game/)**
+
 An SNES *Super Mario Kart*–inspired **3D Split-Screen Kart Racing & Battle Arena** game built with hardware-accelerated WebGL + native 640×720 Canvas 2D rendering, zero external dependencies, and 102-key anti-ghosting 2-player keyboard support.
 
 Runs smoothly at **60 FPS** even on low-spec hardware (including Intel Haswell / HD 4600 integrated graphics) directly in a web browser or via Python.
